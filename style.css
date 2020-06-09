@@ -65,3 +65,14 @@ button {
 .row .cell:hover {
     background: lightsteelblue;
 }
+.find-input{
+    color: blue;
+    font-weight: bolder;
+    font-style: italic;
+
+}
+.replace-input{
+    color: blue;
+    font-weight: bolder;
+    font-style: italic;
+}
